@@ -110,6 +110,7 @@ Tujuan dari pemodelan ini adalah membantu bank mengurangi cost dan menghemat wak
 Dari hasil pemodelan, diperoleh kesimpulan berikut:
 
 Data train:
+
 `Accuracy Score is 0.898
 F1 Score is 0.282
 Precission Score is 0.648
@@ -117,6 +118,7 @@ Recall Score is 0.18
 AUC = 0.58`
 
 Data test:
+
 `Accuracy Score is 0.876
 F1 Score is 0.195
 Precission Score is 0.548
