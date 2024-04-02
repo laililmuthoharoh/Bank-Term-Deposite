@@ -40,11 +40,11 @@ Data Output:
 
 Dengan sumber data yang digunakan: https://archive.ics.uci.edu/dataset/222/bank+marketing
 
-## Metode
+## Method
 Pemodelan Machine Learning Logistic Regression adalah teknik dalam machine learning yang digunakan untuk melakukan klasifikasi data. Logistic Regression mengadopsi fungsi logistik (sigmoid) untuk memodelkan hubungan antara variabel independen (fitur input) dengan variabel dependen (output). Tujuannya adalah untuk memprediksi probabilitas kejadian suatu kelas atau untuk melakukan klasifikasi biner.
 ![image](https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/62fa0406-f49f-49b1-b573-00e8c96ad052)
 
-## Result
+## Experiments
 Untuk melakukan pemodelan, dilakukan bebrapa tahap berikut:
 
 ### Dataset
@@ -63,7 +63,7 @@ Untuk melakukan pemodelan, dilakukan bebrapa tahap berikut:
    ![image](https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/413ac8f0-c5d8-4c01-901a-661053005c36)
    dan tidak ditemukan data kosong.
    
-5. EDA
+3. EDA
    Analisis data eksplorasi ini dilakukan dengan membagi data menjadi dua kategori yaitu:
 
    i. data numerial
@@ -91,7 +91,8 @@ Pada proses ini, dilakukan pembagian data antara data output dan input.
    Karena ini klasifikasi, Baseline kita ambil dari proporsi kelas target yang terbesar. Dengan kata lain, menebak hasil output marketing response dengan nilai “no” semua tanpa modeling.
    ![image](https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/12f48fcc-1577-4d4c-8958-9d47170bb8e1)
 
-3. Pemodelan Logistic Regression
+2. Pemodelan Logistic Regression
+   
    Data Train
    ![image](https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/ab96e9a2-8f38-45a7-a270-f700773c834c)
    ![image](https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/584824bb-e98b-4983-91fa-404ca3d1aeae)
@@ -110,10 +111,12 @@ Tujuan dari pemodelan ini adalah membantu bank mengurangi cost dan menghemat wak
 Dari hasil pemodelan, diperoleh kesimpulan berikut:
 
 Data train:
+
 <img width="203" alt="image" src="https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/c37584f6-1ae0-488c-84f5-57ccc2238ebe">
 
 
 Data test:
+
 <img width="204" alt="image" src="https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/58ca623b-d699-4914-a3a5-cea64292aba6">
 
 
