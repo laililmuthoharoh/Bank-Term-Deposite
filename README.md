@@ -110,20 +110,12 @@ Tujuan dari pemodelan ini adalah membantu bank mengurangi cost dan menghemat wak
 Dari hasil pemodelan, diperoleh kesimpulan berikut:
 
 Data train:
+<img width="203" alt="image" src="https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/c37584f6-1ae0-488c-84f5-57ccc2238ebe">
 
-`Accuracy Score is 0.898
-F1 Score is 0.282
-Precission Score is 0.648
-Recall Score is 0.18
-AUC = 0.58`
 
 Data test:
+<img width="204" alt="image" src="https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/58ca623b-d699-4914-a3a5-cea64292aba6">
 
-`Accuracy Score is 0.876
-F1 Score is 0.195
-Precission Score is 0.548
-Recall Score is 0.119
-AUC = 0.550`
 
 Dari hasil di atas, diperoleh kesimpulan bahwa akurasi pemodelan untuk memperoleh nilai recall maksimal masing sangat lemah. Oleh karena itu, dapat dikembangkan lagi pemodelan yang lebih baik untuk kasus prediksi nasabah Term Deposite ini.
 
