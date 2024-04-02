@@ -1,4 +1,4 @@
-# Bank-Term-Deposite-ML-Process
+# Bank-Term-Deposite
 
 ## Backround
 Sebuah Lembaga perbankan di Portugis ingin melakukan kampanye pemasaran langsung yaitu melalui panggilan telepon untuk mempromosikan produknya yaitu Term Deposite (Deposito Berjangka). Untuk menghemat cost dalam project kampanye Term Deposite ini, tentu pihak bank tidak mungkin menghubingi semua nasabah yang terdaftar. Bank memerlukan suatu cara yang efektif untuk menyeleksi nasabahnasabah yang berpotensi untuk berlangganan Term Deposite.
