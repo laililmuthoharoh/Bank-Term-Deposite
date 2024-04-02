@@ -14,6 +14,7 @@ Akan dilakukan klasifikasi menggunakan dua metode ini. Kemudian dibandingkan has
 Dataset yang digunakan merupakan data nasabah dari sebuah Lembaga di Potugis. Data memiliki total 4521 baris dengan 17 variabel. Berikut diberikan penjelasan mengenai masing-masing variabel atau fitur.
 
 Daftar varibel atau fitur:
+
 ![image](https://github.com/laililmuthoharoh/Bank-Term-Deposite/assets/124485986/e97322ab-cc40-495f-9525-bdc2a619a55e)
 
 Data Input:
@@ -109,18 +110,18 @@ Tujuan dari pemodelan ini adalah membantu bank mengurangi cost dan menghemat wak
 Dari hasil pemodelan, diperoleh kesimpulan berikut:
 
 Data train:
-Accuracy Score is 0.898
+`Accuracy Score is 0.898
 F1 Score is 0.282
 Precission Score is 0.648
 Recall Score is 0.18
-AUC = 0.58
+AUC = 0.58`
 
 Data test:
-Accuracy Score is 0.876
+`Accuracy Score is 0.876
 F1 Score is 0.195
 Precission Score is 0.548
 Recall Score is 0.119
-AUC = 0.550
+AUC = 0.550`
 
 Dari hasil di atas, diperoleh kesimpulan bahwa akurasi pemodelan untuk memperoleh nilai recall maksimal masing sangat lemah. Oleh karena itu, dapat dikembangkan lagi pemodelan yang lebih baik untuk kasus prediksi nasabah Term Deposite ini.
 
